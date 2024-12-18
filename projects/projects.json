@@ -1,0 +1,195 @@
+[
+  {
+    "name": "NotyStack Android",
+    "desc": "Fully fledged android CRUD app based on different design patterns. Built using Java, XML, SQLite, Firebase, RoomDB, MVVM.",
+    "image": "notystackandroid",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/simon-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/notystack-android"
+    }
+  },
+  
+  {
+    "name": "NewsBox Android",
+    "desc": "Native android app built using Java, XML. Retrofit & Glide dependencies. Provides different category news.",
+    "image": "newsboxandroid",
+    "category": "android",
+    "links": {
+      "view": "https://www.linkedin.com/posts/simon-sable_androiddev-androidstudio-java-activity-6955224473822199808-JT0j",
+      "code": "https://github.com/newsbox-android"
+    }
+  },
+  
+  {
+    "name": "Ethical AI challenge",
+    "desc": "This was an ethical AI project carried out at Kisii University, where we developed a healthcare chatbot.",
+    "image": "./assets/images/projects/AI.jpg",
+    "category": "mern",
+    "links": {
+      "v": "#https://instagramernstack.herokuapp.com/",
+      "c": "#https://github.com/instagram-mern"
+    }
+  },
+  {
+    "name": "INTER-UNIVERSITY HACKATHON",
+    "desc": "An inter-university hackathon was held at JKUAT University, which involved over 30 universities. We developed a mobile AI system for the blind and visually impaired and emerged as number one in the autonomous systems category",
+    "image": "AI",
+    "category": "mern",
+    "links": {
+      "view": "",
+      "code": ""
+    }
+  },
+  
+  {
+    "name": "ResumeGen",
+    "desc": "ReactJS Basic Resume Generator which will generate customized resume in few minutes on your requirements.",
+    "image": "resumegen",
+    "category": "mern",
+    "links": {
+      "v": "#https://resumegenx.netlify.app/",
+      "c": "#https://github.com/resumegen"
+    }
+  },
+  {
+    "name": "React-Projects",
+    "desc": "Full-Stack project dashboard which is collection of projects built on the React library.",
+    "image": "reactprojects",
+    "category": "mern",
+    "links": {
+      "v": "#https://reactjsprojects.herokuapp.com/",
+      "c": "#https://github.com/React-Projects"
+    }
+  },
+ 
+  {
+    "name": "JavaScript Projects Website",
+    "desc": "This website is specially build to showcase all major javaScript projects. All my javaScript based projects are in it.",
+    "image": "jspro",
+    "category": "basicweb",
+    "links": {
+      "v": "#https://simon-sable.github.io/JavaScript-Projects",
+      "c": "#https://github.com/JavaScript-Projects"
+    }
+  },
+  {
+    "name": "Web UI Clones",
+    "desc": "Flipkart, YouTube, Instagram, Sololearn web UI clones using tailwindCSS.",
+    "image": "webuiclones",
+    "category": "mern",
+    "links": {
+      "v": "#https://github.com/simon-sable/web-ui-clones",
+      "c": "#https://github.com/web-ui-clones"
+    }
+  },
+
+ 
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "portfolio1",
+    "category": "basicweb",
+    "links": {
+      "v": "#",
+      "c": "#https://github.com/Portfolio-Website"
+    }
+  },
+  {
+    "name": "Composey Website",
+    "desc": "Simple landing page website built using HTML, CSS, JavaScript and some JavaScript Libraries.",
+    "image": "composey",
+    "category": "basicweb",
+    "links": {
+      "v": "#https://composey.netlify.app/",
+      "c": "#https://github.com/LGMVIP-WebDev"
+    }
+  },
+  {
+    "name": "Webview App",
+    "desc": "It's an android app which uses web view component for displaying content. This app provides many different features.",
+    "image": "webviewapp",
+    "category": "android",
+    "links": {
+      "v": "https://github.com/simon-sable/Android-Webview#webapp--android-webview-app",
+      "c": "https://github.com//Android-Webview"
+    }
+  },
+ 
+  {
+    "name": "Bootstrap Portfolio",
+    "desc": "Portfolio built using HTML, CSS, Bootstrap, SASS and JavaScript. Customized Bootstrap using SCSS.",
+    "image": "bootstrapportfolio",
+    "category": "basicweb",
+    "links": {
+      "v": "#",
+      "c": "#"
+    }
+  },
+  
+ 
+  {
+    "name": "Food Website",
+    "desc": "Basic food website landing page built using HTML, CSS, SASS, Bootstrap and jQuery.",
+    "image": "foodwebsite",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "WebChat Website",
+    "desc": "It's a web based chat app made using popular javaScript library Socket IO. Allows multiple users to connect.",
+    "image": "webchat",
+    "category": "mern",
+    "links": {
+      "view": "#https://github.com/simon-sable/WebChat#webchat",
+      "code": "#https://github.com/WebChat"
+    }
+  },
+ 
+  {
+    "name": "JavaScript Issue Tracker",
+    "desc": "It provides the feature to Assign Issue With The Auto Generated Id By Using ChanceJS. Uses Local Storage.",
+    "image": "issuetrack",
+    "category": "basicweb",
+    "links": {
+      "view": "#https://simon-sable.github.io/JavaScript-Projects/projects/issuetracker",
+      "code": "#https://github.com/JavaScript-Projects/tree/main/projects/issuetracker"
+    }
+  },
+ 
+  
+  {
+    "name": "Job Finder Dummy",
+    "desc": "It Fetch JSON Data And Allow Feature To Search Within The Content Displayed. Will be Developed By Using Live APIs.",
+    "image": "saas",
+    "category": "basicweb",
+    "links": {
+      "view": "#https://simon-sable.github.io/JavaScript-Projects/api-projects/saas-jobs",
+      "code": "#https://github.com/JavaScript-Projects/tree/main/api-projects/saas-jobs"
+    }
+  },
+  {
+    "name": "Old Websites",
+    "desc": "Bestwebs & ColorCoder. Two Years old websites memories. Simple with basic features.",
+    "image": "oldsites",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Resistor Color Codes",
+    "desc": "Simply provides the color codes of resistors. Calculation information and about resistors.",
+    "image": "resistercolor",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+  
+]
